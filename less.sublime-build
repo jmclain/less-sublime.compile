@@ -1,0 +1,4 @@
+{
+ "cmd": ["lessc.cmd", "-no-color", "$file", "$file_base_name.css"],
+ "selector":"source.less"
+}
